@@ -13,7 +13,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 using Newtonsoft.Json.Serialization;
-
+using Swashbuckle.AspNetCore.Swagger;
 namespace HospitalInformationSystem
 {
     public class Startup
@@ -34,6 +34,9 @@ namespace HospitalInformationSystem
                     if (resolver != null)
                         (resolver as DefaultContractResolver).NamingStrategy = null;
                 });
+            services.AddSwaggerGen(c=> {
+                c.SwaggerDoc("v1", new Microsoft.OpenApi.Models.OpenApiInfo { Title = "API docs", Version = "v1" });
+            });
             services.AddDbContext<HospitalInformationContext>(options => 
                 options.UseSqlServer(Configuration.GetConnectionString("DevConnection")));
 
@@ -57,6 +60,11 @@ namespace HospitalInformationSystem
             {
                 app.UseHsts();
             }
+            app.UseSwagger();
+            app.UseSwaggerUI(c => {
+                c.SwaggerEndpoint("swagger/v1/swagger.json", "API V1");
+                c.RoutePrefix = string.Empty;
+            });
 
             app.UseHttpsRedirection();
             app.UseMvc();
