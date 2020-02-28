@@ -1,0 +1,14 @@
+C:\Users\Basil\source\repos\HospitalInformationSystem\HospitalInformationSystem\bin\Debug\netcoreapp2.1\HospitalInformationSystem.deps.json
+C:\Users\Basil\source\repos\HospitalInformationSystem\HospitalInformationSystem\bin\Debug\netcoreapp2.1\HospitalInformationSystem.runtimeconfig.json
+C:\Users\Basil\source\repos\HospitalInformationSystem\HospitalInformationSystem\bin\Debug\netcoreapp2.1\HospitalInformationSystem.runtimeconfig.dev.json
+C:\Users\Basil\source\repos\HospitalInformationSystem\HospitalInformationSystem\bin\Debug\netcoreapp2.1\HospitalInformationSystem.dll
+C:\Users\Basil\source\repos\HospitalInformationSystem\HospitalInformationSystem\bin\Debug\netcoreapp2.1\HospitalInformationSystem.pdb
+C:\Users\Basil\source\repos\HospitalInformationSystem\HospitalInformationSystem\obj\Debug\netcoreapp2.1\HospitalInformationSystem.csprojAssemblyReference.cache
+C:\Users\Basil\source\repos\HospitalInformationSystem\HospitalInformationSystem\obj\Debug\netcoreapp2.1\HospitalInformationSystem.csproj.CoreCompileInputs.cache
+C:\Users\Basil\source\repos\HospitalInformationSystem\HospitalInformationSystem\obj\Debug\netcoreapp2.1\HospitalInformationSystem.RazorAssemblyInfo.cache
+C:\Users\Basil\source\repos\HospitalInformationSystem\HospitalInformationSystem\obj\Debug\netcoreapp2.1\HospitalInformationSystem.RazorAssemblyInfo.cs
+C:\Users\Basil\source\repos\HospitalInformationSystem\HospitalInformationSystem\obj\Debug\netcoreapp2.1\HospitalInformationSystem.AssemblyInfoInputs.cache
+C:\Users\Basil\source\repos\HospitalInformationSystem\HospitalInformationSystem\obj\Debug\netcoreapp2.1\HospitalInformationSystem.AssemblyInfo.cs
+C:\Users\Basil\source\repos\HospitalInformationSystem\HospitalInformationSystem\obj\Debug\netcoreapp2.1\HospitalInformationSystem.RazorTargetAssemblyInfo.cache
+C:\Users\Basil\source\repos\HospitalInformationSystem\HospitalInformationSystem\obj\Debug\netcoreapp2.1\HospitalInformationSystem.dll
+C:\Users\Basil\source\repos\HospitalInformationSystem\HospitalInformationSystem\obj\Debug\netcoreapp2.1\HospitalInformationSystem.pdb
